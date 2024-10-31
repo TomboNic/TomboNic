@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
-
 ### Hi there 👋 I'm Nicolas Tombolan,
 
 I'm a second year software engineering undergraduate at UADE.
