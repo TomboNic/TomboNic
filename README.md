@@ -14,7 +14,7 @@ I'm a second year software engineering undergraduate at UADE.
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/KOTLIN-E34F26?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -23,7 +23,7 @@ I'm a second year software engineering undergraduate at UADE.
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Compose-563D7C?style=for-the-badge&logo=Compose&logoColor=white">
 </span>
 
 <h4> Databases </h4>
