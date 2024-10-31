@@ -20,7 +20,7 @@ I'm a second year software engineering undergraduate at UADE.
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/JETPACKCOMPOSE-563D7C?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  <img src="https://img.shields.io/badge/JETPACK COMPOSE-563D7C?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 </span>
 
 <h4> Databases </h4>
