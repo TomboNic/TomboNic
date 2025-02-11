@@ -3,9 +3,9 @@
 I'm a second year computer engineering undergraduate at UADE.
 
 - 🔭 I’m currently studying:
-	- Mobile Application Development
+	- Mobile Application Development (Android Native Development)
  	- Cibersecurity fundamentals (CompTia A+) 	
-- :bulb: I'm interested in all things data: **Cibersecurity, Networks and IT Infraestructure**
+- :bulb: I'm interested in all things: **Cibersecurity, Networks and IT Infraestructure**
 
 
 ## My Skills Include
