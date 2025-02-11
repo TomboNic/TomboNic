@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Nicolas Tombolan,
 
-I'm a second year software engineering undergraduate at UADE.
+I'm a second year computer engineering undergraduate at UADE.
 
 - 🔭 I’m currently studying:
-	- Mobile Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+	- Mobile Application Development
+ 	- Cibersecurity fundamentals (CompTia A+) 	
+- :bulb: I'm interested in all things data: **Cibersecurity, Networks and IT Infraestructure**
 
 
 ## My Skills Include
